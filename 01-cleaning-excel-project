@@ -1,0 +1,33 @@
+# 📑 Proyecto de Limpieza y Transformación en Excel
+
+## 📝 Descripción
+Proyecto enfocado en la limpieza, transformación y organización de datos utilizando Excel. Incluye manejo de datos crudos, tratamiento de duplicados, tablas dinámicas y cálculos.
+
+---
+
+## 🧰 Tecnologías utilizadas
+- Excel
+- Funciones: BUSCARV/XLOOKUP, IF, TEXT, CONCAT, etc.
+- Tablas dinámicas
+
+---
+
+## 🔍 Proceso del análisis
+1. **Importación de datos crudos.**
+2. **Limpieza:** Eliminación de duplicados, normalización de formatos, valores faltantes.
+3. **Transformación:** Nuevas columnas, filtros avanzados, ordenamiento.
+4. **Visualización:** Gráficas básicas y tablas dinámicas.
+5. **Conclusiones:** Hallazgos clave.
+
+---
+
+## 📂 Archivos del proyecto
+- `dataset.xlsx`
+- `screenshots/` con evidencia de transformación
+
+---
+
+## 📌 Resultados principales
+- Se normalizaron fechas, categorías y valores inconsistentes.
+- Se creó un resumen dinámico de ventas por región.
+- Se mejoró la estructura del dataset para análisis posteriores.
