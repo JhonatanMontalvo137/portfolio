@@ -1,0 +1,37 @@
+# 📊 Análisis de Ventas con SQL (BigQuery)
+
+## 📝 Descripción
+Este proyecto utiliza SQL en BigQuery para analizar datos de ventas, productos y clientes. El objetivo es encontrar patrones relevantes, calcular KPIs y detectar oportunidades comerciales.
+
+---
+
+## 🧰 Tecnologías utilizadas
+- SQL (BigQuery)
+- Google Cloud Platform
+
+---
+
+## 🔍 Proceso del análisis
+1. **Exploración:** Revisión de tablas y esquemas.
+2. **Limpieza:** Filtros, CAST, CASE y formatos.
+3. **Joins:** Unión de métricas de clientes, productos y ventas.
+4. **Cálculo de KPIs:** Ingresos, ticket promedio, recurrencia.
+5. **Identificación de tendencias:** Estacionalidad y comportamiento por categoría.
+
+---
+
+## 📂 Archivos del proyecto
+- `queries/sales_queries.sql`
+- `screenshots/` con capturas de BigQuery
+
+---
+
+## 🔗 Enlace a consultas SQL
+(Pega aquí el link público de tu consulta en BigQuery)
+
+---
+
+## 📌 Resultados principales
+- El 20% de los clientes genera el 60% de los ingresos.
+- Los productos categoría A representan el mayor margen.
+- Se detectan picos de venta en julio y noviembre.
