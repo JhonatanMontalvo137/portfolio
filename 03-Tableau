@@ -1,0 +1,38 @@
+# 📈 Dashboard de Retail (Tableau)
+
+## 📝 Descripción
+Dashboard interactivo creado en Tableau Public para analizar ventas, clientes y categorías de producto. El objetivo es visualizar métricas clave de forma clara para apoyar decisiones comerciales.
+
+---
+
+## 🧰 Tecnologías utilizadas
+- Tableau Public
+- Dataset .csv o .xlsx
+
+---
+
+## 🔍 Elementos del dashboard
+- Total de ventas
+- Facturación por categoría
+- Segmentación de clientes
+- Tendencias mensuales
+- Mapa geográfico (si aplica)
+
+---
+
+## 📂 Archivos del proyecto
+- `dashboard-link.txt`
+- Carpeta `screenshots/`
+- Dataset original (si aplica)
+
+---
+
+## 🔗 Ver dashboard
+(Pega aquí el enlace de tu tablero en Tableau Public)
+
+---
+
+## 📌 Insights principales
+- La categoría “Electrónica” concentra gran parte de los ingresos.
+- Clientes Premium muestran mayor gasto promedio.
+- El Q4 tiene el pico de ventas anual.
