@@ -1,0 +1,1 @@
+-----Filtrar según dos condiciones y, a continuación, ordenar los datos en orden descendente
