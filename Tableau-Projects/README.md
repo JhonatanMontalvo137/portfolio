@@ -1,26 +1,46 @@
-📊 README — Tableau Projects
+README — Tableau Projects
 
-Este folder contiene mis primeras prácticas y ejercicios con Tableau, centrados en desarrollar habilidades fundamentales de análisis visual. Cada visualización fue creada utilizando datasets sencillos con el objetivo de dominar las herramientas básicas de la plataforma.
+Este folder contiene una serie de visualizaciones realizadas en Tableau Public con el objetivo de practicar y reforzar habilidades clave en análisis visual de datos. Los proyectos se enfocan en el estudio de emisiones globales de CO₂ y tendencias ambientales a lo largo del tiempo.
 
-🔧 Contenido
+📁 Visualizaciones incluidas
+1. 🌍 Nivel de CO₂ por región (1960–2010)
 
-1. Filtrado interactivo
-Ejercicio donde aplico filtros por categoría, rango y fecha, permitiendo explorar diferentes segmentos del conjunto de datos.
+Análisis temporal que muestra la evolución de los niveles de CO₂ por región durante 50 años, permitiendo identificar tendencias ascendentes, periodos críticos y diferencias entre zonas geográficas.
+🔗 Ver visualización:
+https://public.tableau.com/views/NiveldeCO2porreginde1960a2010/Hoja1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-2. Gráficos y codificación por color
-Visualización en la que utilizo color como canal visual para resaltar variables clave y facilitar comparaciones. Incluye barras, áreas y mapas de calor.
+2. 📈 Análisis de emisiones de CO₂ (2000–2011)
 
-3. Tablas y resúmenes
-Hoja que practica el uso de tablas resumidas, ordenamiento, totales y sub-totales, además de formatos limpios para presentación ejecutiva.
+Dashboard que permite explorar emisiones anuales mediante gráficos interactivos, con filtrado por país y comparaciones año contra año.
+🔗 Ver visualización:
+https://public.tableau.com/views/AnlisisdeemisionesdeC02de2000a2011/Hoja1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-🎯 Habilidades prácticas desarrolladas
+3. 🌐 Global Emissions CO₂
 
-Uso de filtros y acciones interactivas
+Visualización que resume las emisiones globales y su distribución alrededor del mundo mediante mapas y gráficos comparativos.
+🔗 Ver visualización:
+https://public.tableau.com/views/GlobalEmissionsC02_17617147498320/Hoja1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Manejo de Marks (color, tamaño, etiqueta)
+🧠 Habilidades desarrolladas
 
-Diseño de dashboards simples y funcionales
+Uso de filtros interactivos
 
-Limpieza visual y buenas prácticas de layout
+Tablas y resúmenes por región y año
 
-Combinación de múltiples vistas en una sola interfaz
+Mapas coropléticos y gráficos comparativos
+
+Manejo de Marks (color, tamaño, etiquetas)
+
+
+🖼️ Capturas de las visualizaciones
+
+![Visualización: Nivel de CO2 por región](imagenes/nivel_co2.png)
+![Visualización: Emisiones 2000-2011](imagenes/emisiones_2000_2011.png)
+![Visualización: Global Emissions CO2](imagenes/global_emissions.png)
+
+
+
+
+Buenas prácticas de diseño visual
+
+🖼️ Capturas de las visualizaciones
