@@ -32,11 +32,15 @@ Mapas coropléticos y gráficos comparativos
 Manejo de Marks (color, tamaño, etiquetas)
 
 
+
 🖼️ Capturas de las visualizaciones
 
 ![Visualización: Nivel de CO2 por región](https://github.com/JhonatanMontalvo137/portfolio/blob/main/Tableau-Projects/Nivel%20de%20CO2%20por%20regi%C3%B3n%20de%201960%20a%202010.png?raw=true)
+
 ![Visualización: Emisiones 2000-2011](https://github.com/JhonatanMontalvo137/portfolio/blob/main/Tableau-Projects/An%C3%A1lisis%20de%20emisiones%20de%20C02%20de%202000%20a%202011.png?raw=true)
+
 ![Visualización: Global Emissions CO2](https://github.com/JhonatanMontalvo137/portfolio/blob/main/Tableau-Projects/Global%20Emissions%20CO2.png?raw=true)
+
 
 
 
